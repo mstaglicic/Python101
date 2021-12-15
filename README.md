@@ -1,6 +1,4 @@
- # README 
+## Uvod u PYTHON
 
- ## Uvod u PYTHON
-
- ### Mihovil Staglicic
+### Mihovil Staglicic
 
